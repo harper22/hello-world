@@ -1,2 +1,2 @@
 # hello-world
-Testing the Go setup on my computer
+Learning how to use Github!
